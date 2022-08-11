@@ -1,8 +1,5 @@
 ---
 title: Welcome to the Shitshow
-
-# Here we go...
-
-
 ---
 
+# Here we go...
